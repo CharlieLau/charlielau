@@ -15,4 +15,9 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Markdown   1 min           ███████████████░░░░░░░░░░   61.99 % 
+YAML       0 secs          █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Other      0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.74 %
+```
 <!--END_SECTION:waka-->
