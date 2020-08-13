@@ -5,8 +5,9 @@
 ![Waka Readme](https://github.com/CharlieLau/charlielau/workflows/Waka%20Readme/badge.svg)
 
 ## about me ...
-- 📫 I’m a front end software  engineer
+- 📫 I’m a web development front end software engineer
 - 🔭 I’m currently working at  <a href="https://www.meituan.com">meituan</a>
+- 🔭 I'm focused on vuejs and bundless
 
 <p align="center">
   <a href="https://github.com/charlielau" class="rich-diff-level-one">
